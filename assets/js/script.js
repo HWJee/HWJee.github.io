@@ -11,7 +11,7 @@ if ($(window).width() <= 1280) {
 }
 
 // Variables
-    tag1       = $('.pl__all'),
+    tag1       = $('.我的家园'),
     tag2       = $('.place_your_tag_name_here'),
     tag3       = $('.place_your_tag_name_here'),
     tag4       = $('.place_your_tag_name_here'),
